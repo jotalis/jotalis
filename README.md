@@ -1,7 +1,7 @@
 # Hello, I'm Jay! 👋
 
 ## About Me 📖
-- 📚 CSE @ UCI
+- 📚 CS @ UCI
 - 🤖 Robotics & Autonomous Systems
 - 💻 Full Stack Development
 
