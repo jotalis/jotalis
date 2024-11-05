@@ -2,8 +2,8 @@
 
 ## About Me 📖
 - 📚 CS @ UCI
-- 🤖 Robotics & Autonomous Systems
 - 💻 Full Stack Development
+- 🤖 Robotics & Autonomous Systems
 
 
 ## Tech Stack 🛠️
