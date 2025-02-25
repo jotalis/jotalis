@@ -24,7 +24,7 @@
 
 
 ## Hackathons 🥇
-- 🏆 [TreeHacks '25](https://devpost.com/software/teachme-3p7bw1) Most Technically complex
+- 🏆 [TreeHacks '25](https://devpost.com/software/teachme-3p7bw1) Most Technically Complex
 - 🏆 [LAHacks '24](https://devpost.com/software/teachme-3p7bw1) 1st Place Google Company Challenge
 - 🏆 [UCSD DiamondHacks '24](https://devpost.com/software/abseas) Best Education Hack
 - 🏆 [UCI IrvineHacks '24](https://devpost.com/software/xplore-p1dnvc) Best Travel Hack
