@@ -9,7 +9,7 @@
 ## Tech Stack 🛠️
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScrpit](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Next.Js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -24,7 +24,7 @@
 
 
 ## Hackathons 🥇
-
+- 🏆 [TreeHacks '25](https://devpost.com/software/teachme-3p7bw1) Most Technically complex
 - 🏆 [LAHacks '24](https://devpost.com/software/teachme-3p7bw1) 1st Place Google Company Challenge
 - 🏆 [UCSD DiamondHacks '24](https://devpost.com/software/abseas) Best Education Hack
 - 🏆 [UCI IrvineHacks '24](https://devpost.com/software/xplore-p1dnvc) Best Travel Hack
